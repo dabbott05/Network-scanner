@@ -1,12 +1,12 @@
 # Network Scanner
 
-A Python-based network scanner that monitors a local network for devices using ARP requests. It detects new devices by comparing their IP and MAC addresses against a stored list, logging results to a file and console. Supports configurable scan intervals and subnets, with persistent device tracking via JSON. Designed for simplicity and cross-platform use, requiring root/admin privileges for raw socket access.
+A Python-based network scanner that monitors a local network for devices using ARP requests. It detects new devices by comparing their IP and MAC addresses against a stored list, logging results to a file and console. Supports configurable scan intervals and subnets, with persistent device logging via JSON.
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/network-scanner.git
+   git clone https://github.com/dabbott05/network-scanner.git
    cd network-scanner
    ```
 2. Install dependencies:
