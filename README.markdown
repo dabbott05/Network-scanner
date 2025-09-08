@@ -47,6 +47,11 @@ Logs are saved to `network_scanner.log` and shown in the console. New devices ar
 - **Ethics**: Only scan networks you own or have permission to scan.
 - **Logs**: View `network_scanner.log` for scan details and new device alerts.
 
+## TODO
+
+- **Detect wether the devices are ethernet or wireless**
+- **Name the devices for better readability**
+
 ## License
 
 MIT License
